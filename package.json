@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "css": "^2.2.4",
-    "next": "^9.3.0",
+    "next": "^9.5.5",
     "normalize": "^0.3.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
